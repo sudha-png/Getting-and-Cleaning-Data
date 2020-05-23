@@ -4,7 +4,7 @@ The purpose of this project is to demonstrate the process of collecting, working
 
 # This Project contains:
 1. Tidy Dataset
-2. Codebook
+2. Codebook.md
 3. README.md
 4. R Script
 
